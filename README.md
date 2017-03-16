@@ -296,6 +296,10 @@ It is a list of handlers to use to scroll the element.
 The scroll speed applied to mousewheel event.  
 **Default**: `1`
 
+### pageSpeed
+The scroll delta applied to page up/down and spacebar key event.  
+**Default**: `90`
+
 ### wheelPropagation
 If this option is true, when the scroll reaches the end of the side, mousewheel event will be propagated to parent element.  
 **Default**: `false`
