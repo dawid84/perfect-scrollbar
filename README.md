@@ -1,5 +1,7 @@
 # `perfect-scrollbar`
 
+This fork of perfect-scrollbar adds a pageSpeed option.
+
 Minimalistic but perfect custom scrollbar plugin
 
 [![Travis CI](https://travis-ci.org/noraesae/perfect-scrollbar.svg?branch=master)](https://travis-ci.org/noraesae/perfect-scrollbar)
