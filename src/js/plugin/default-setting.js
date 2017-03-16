@@ -4,6 +4,7 @@ module.exports = {
   handlers: ['click-rail', 'drag-scrollbar', 'keyboard', 'wheel', 'touch'],
   maxScrollbarLength: null,
   minScrollbarLength: null,
+  pageSpeed: 90,
   scrollXMarginOffset: 0,
   scrollYMarginOffset: 0,
   suppressScrollX: false,

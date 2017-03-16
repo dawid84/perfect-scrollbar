@@ -10,6 +10,7 @@ interface PerfectScrollbarOptions {
   suppressScrollY?: boolean;
   scrollXMarginOffset?: number;
   scrollYMarginOffset?: number;
+  pageSpeed?: number;
 }
 
 interface PerfectScrollbar {

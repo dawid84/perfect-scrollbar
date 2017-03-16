@@ -1,5 +1,5 @@
 {
-  "name": "perfect-scrollbar",
+  "name": "@dawid84/perfect-scrollbar",
   "version": "0.6.16",
   "description": "Minimalistic but perfect custom scrollbar plugin",
   "author": "Hyunje Jun <me@noraesae.net>",
@@ -12,10 +12,10 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noraesae/perfect-scrollbar"
+    "url": "https://github.com/dawid84/perfect-scrollbar"
   },
   "bugs": {
-    "url": "https://github.com/noraesae/perfect-scrollbar/issues"
+    "url": "https://github.com/dawid84/perfect-scrollbar/issues"
   },
   "keywords": [
     "jquery-plugin",

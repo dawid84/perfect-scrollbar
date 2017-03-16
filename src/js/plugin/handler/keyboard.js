@@ -107,17 +107,17 @@ function bindKeyboardHandler(element, i) {
       }
       break;
     case 33: // page up
-      deltaY = 90;
+      deltaY = i.settings.pageSpeed;
       break;
     case 32: // space bar
       if (e.shiftKey) {
-        deltaY = 90;
+        deltaY = i.settings.pageSpeed;
       } else {
-        deltaY = -90;
+        deltaY = -i.settings.pageSpeed;
       }
       break;
     case 34: // page down
-      deltaY = -90;
+      deltaY = -i.settings.pageSpeed;
       break;
     case 35: // end
       if (e.ctrlKey) {
